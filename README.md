@@ -17,7 +17,10 @@
 
 ## アクション
 
-とりあえず、Issueによって議論を進めていきたいと思います。
+<del>とりあえず、Issueによって議論を進めていきたいと思います。</del>
+
+* [Gitter](https://gitter.im/ipedia/kyo-commander) にて議論をしています。
+* [今日コマンダー](https://twitter.com/kyocommander) botにて、MVPを作成し実証実験を行っています。気軽にフォローしてください。^^
 
 ## おことわり
 
